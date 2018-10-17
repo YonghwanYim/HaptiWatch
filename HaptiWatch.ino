@@ -1,5 +1,5 @@
 /*
- * Project Title : Smartwatch Prototype
+ * Project Title : HaptiWatch Prototype
  * Author : Yonghwan Yim
  * Experience Innovation Design Lab.
  * Department of Industrial Engineering
