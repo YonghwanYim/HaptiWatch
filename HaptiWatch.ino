@@ -1,10 +1,3 @@
-#include <Boards.h>
-#include <Firmata.h>
-#include <FirmataConstants.h>
-#include <FirmataDefines.h>
-#include <FirmataMarshaller.h>
-#include <FirmataParser.h>
-
 /*
  * Project Title : Smartwatch Prototype
  * Author : Yonghwan Yim
@@ -14,6 +7,14 @@
  
  * Final Update : 2017.09.11
  */
+
+#include <Boards.h>
+#include <Firmata.h>
+#include <FirmataConstants.h>
+#include <FirmataDefines.h>
+#include <FirmataMarshaller.h>
+#include <FirmataParser.h>
+
 // Library List //
 #include <Adafruit_NeoPixel.h>  // NeoPixel Library.
 #include <SoftwareSerial.h>     // Bluetooth Library.
